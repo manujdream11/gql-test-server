@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cdd9ac4-3059-4869-a8f2-7017d07ddcca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1bfkJUFo50MOnggNOuSWdEXXFB0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cdd9ac4-3059-4869-a8f2-7017d07ddcca" name="Default Changelist" comment="" />
+      <created>1589030464140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589030464140</updated>
+      <workItem from="1589030466485" duration="3007000" />
+      <workItem from="1589147241583" duration="1703000" />
+      <workItem from="1589288069740" duration="5901000" />
+      <workItem from="1589973931779" duration="13565000" />
+      <workItem from="1590676492599" duration="441000" />
+      <workItem from="1591606402367" duration="916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/loader_2/tweet.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/loader_2/news.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/loader_2/news.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/loader_2/tweet.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/common.test.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/sport.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/news.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/sport.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/common.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/tweet.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/news.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/tweet.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/common.test.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/mapper/common.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/ds/core.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/ds/core.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/loader/article.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/loader/article.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/match.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/news.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/match.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/tweet.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/tweet.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/sport.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/sport.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/resolvers_2/news.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/news.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/tweet.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/tweet.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/news.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/appsFlyer.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/appsFlyer.test.js" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/appsFlyer.test.js.map" />
+        <option value="$PROJECT_DIR$/../codebase/fc-gql/src/services/appsFlyer.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589374996744">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="360" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1589374996744" />
+    <state x="659" y="159" key="#xdebugger.evaluate" timestamp="1590064511912">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="659" y="159" key="#xdebugger.evaluate/0.23.1792.1026@0.23.1792.1026" timestamp="1590064511912" />
+    <state width="1750" height="324" key="GridCell.Tab.0.bottom" timestamp="1590067550397">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124720" />
+    <state width="1750" height="324" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550397" />
+    <state width="1750" height="324" key="GridCell.Tab.0.center" timestamp="1590067550396">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124719" />
+    <state width="1750" height="324" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550396" />
+    <state width="1750" height="324" key="GridCell.Tab.0.left" timestamp="1590067550395">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124718" />
+    <state width="1750" height="324" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550395" />
+    <state width="1750" height="324" key="GridCell.Tab.0.right" timestamp="1590067550396">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124720" />
+    <state width="1750" height="324" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550396" />
+    <state width="1750" height="324" key="GridCell.Tab.1.bottom" timestamp="1590067550029">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.1.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1590046054731" />
+    <state width="1750" height="324" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550029" />
+    <state width="1750" height="324" key="GridCell.Tab.1.center" timestamp="1590067550029">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.1.center/0.23.1792.1024@0.23.1792.1024" timestamp="1590046054731" />
+    <state width="1750" height="324" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550029" />
+    <state width="1750" height="324" key="GridCell.Tab.1.left" timestamp="1590067550028">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.1.left/0.23.1792.1024@0.23.1792.1024" timestamp="1590046054730" />
+    <state width="1750" height="324" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550028" />
+    <state width="1750" height="324" key="GridCell.Tab.1.right" timestamp="1590067550029">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.1.right/0.23.1792.1024@0.23.1792.1024" timestamp="1590046054731" />
+    <state width="1750" height="324" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550029" />
+    <state width="1750" height="324" key="GridCell.Tab.2.bottom" timestamp="1590067550030">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.2.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124362" />
+    <state width="1750" height="324" key="GridCell.Tab.2.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550030" />
+    <state width="1750" height="324" key="GridCell.Tab.2.center" timestamp="1590067550029">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.2.center/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124361" />
+    <state width="1750" height="324" key="GridCell.Tab.2.center/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550029" />
+    <state width="1750" height="324" key="GridCell.Tab.2.left" timestamp="1590067550029">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.2.left/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124361" />
+    <state width="1750" height="324" key="GridCell.Tab.2.left/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550029" />
+    <state width="1750" height="324" key="GridCell.Tab.2.right" timestamp="1590067550029">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.2.right/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124361" />
+    <state width="1750" height="324" key="GridCell.Tab.2.right/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550029" />
+    <state width="1750" height="324" key="GridCell.Tab.3.bottom" timestamp="1590067550030">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.3.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124362" />
+    <state width="1750" height="324" key="GridCell.Tab.3.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550030" />
+    <state width="1750" height="324" key="GridCell.Tab.3.center" timestamp="1590067550030">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.3.center/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124362" />
+    <state width="1750" height="324" key="GridCell.Tab.3.center/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550030" />
+    <state width="1750" height="324" key="GridCell.Tab.3.left" timestamp="1590067550030">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.3.left/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124362" />
+    <state width="1750" height="324" key="GridCell.Tab.3.left/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550030" />
+    <state width="1750" height="324" key="GridCell.Tab.3.right" timestamp="1590067550030">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="324" key="GridCell.Tab.3.right/0.23.1792.1024@0.23.1792.1024" timestamp="1589996124362" />
+    <state width="1750" height="324" key="GridCell.Tab.3.right/0.23.1792.1026@0.23.1792.1026" timestamp="1590067550030" />
+    <state x="100" y="123" width="1592" height="824" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589994126891">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="100" y="123" width="1592" height="824" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1589994126891" />
+    <state x="545" y="278" width="730" height="514" key="find.popup" timestamp="1589397383278">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="545" y="278" width="730" height="514" key="find.popup/0.23.1792.1024@0.23.1792.1024" timestamp="1589397383278" />
+    <state x="561" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1590066110545">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="561" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1590066110545" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/enhancedRedis.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
